@@ -1,5 +1,2 @@
-<?php
-
-echo "Rollins Fucking Shelby";
-
-?>
+<?php include 'components/Navbar.php' ?>
+<?php include 'database/config.php' ?>
