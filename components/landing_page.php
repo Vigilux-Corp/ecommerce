@@ -14,7 +14,7 @@
         .body {
             background-color: black;
             color: #f1f1f1;
-            height: 100vh;
+            height: 84vh;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -44,8 +44,7 @@
             border: 1px solid #ccc;
             padding: 20px;
             border-radius: 5px;
-            margin-top: 2%;
-            margin-bottom: 20%;
+            margin-bottom: 5%;
             width: 60%;
         }
 
@@ -229,7 +228,7 @@
     </div>
 
     <div class="copyright">
-        <span>powered by @ vigiluxcorp.</span>
+        <span>powered by vigiluxcorp. &copy 2023</span>
     </div>
 
     <script>
